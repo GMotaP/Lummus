@@ -4,13 +4,16 @@
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
   <title>Status dos Carregadores</title>
-  <link rel="stylesheet" href="styles.css">
+  <link rel="stylesheet" href="./styles.css">
 </head>
 <body>
   <header>
     <div class="brand" aria-label="INCHARGE logo"></div>
     <h1>Status dos Carregadores</h1>
     <p id="last-update"></p>
+    <p id="page-error" style="display:none; margin:8px 0; padding:10px; border-radius:8px; background:#fee; color:#900;">
+      Erro ao carregar dados.
+    </p>
   </header>
 
   <div id="scale-root" class="scale-root">
@@ -46,6 +49,6 @@
     </div>
   </div>
 
-  <script src="script.js" defer></script>
+  <script src="./script.js" defer></script>
 </body>
 </html>
