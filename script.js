@@ -31,7 +31,8 @@
         name: "Locais",
         locations: [
           { label: "Shopping Fabrika Mall DC", key: "pc111" },
-          { label: "Posto Caxuxa", key: "inc299" },
+          { label: "Posto Caxuxa AC", key: "inc299" },
+          { label: "Posto Caxuxa DC", key: "pc109" },
           { label: "Posto One", key: "inc332" },
         ],
       },
