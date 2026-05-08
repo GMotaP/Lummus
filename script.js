@@ -25,12 +25,15 @@
           { label: "Hotel Santory", key: "inc298" },
           { label: "Hotel Colonial", key: "inc334" },
           { label: "Drogaria Americana", key: "inc335" },
+          { label: "Posto JHS", key: "inc383" },
+          { label: "EIMA Materiais Elétricos", key: "inc397" },
         ],
       },
       {
         name: "Locais",
         locations: [
           { label: "Shopping Fabrika Mall DC", key: "pc111" },
+          { label: "Shopping Fabrika Mall AC", key: "inc333" },
           { label: "Posto Caxuxa AC", key: "inc299" },
           { label: "Posto Caxuxa DC", key: "pc134" },
           { label: "Posto One", key: "inc332" },
